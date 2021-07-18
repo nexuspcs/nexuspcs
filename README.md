@@ -4,7 +4,7 @@
 
 ## GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nexuspcs&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=nexuspcs&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true"/> </p>
 
