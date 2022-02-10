@@ -18,7 +18,6 @@
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuspcs&theme=dark" /> </p>
 
 
-[![nexuspcs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nexuspcs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📫 How to reach me **nexus.custom.pcs.aus@gmail.com**
