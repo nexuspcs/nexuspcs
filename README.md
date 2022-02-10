@@ -14,12 +14,10 @@
 
 <p align="center"> <img alt="Wakatime Stats" href="https://github-readme-stats.vercel.app/api/wakatime?username=nexuspcs&theme=github_dark&layout=compact" /> </p>
 
-<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexuspcs&show_icons=true&locale=en&theme=github_dark" /> </p>
+<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexuspcs&show_icons=true&locale=en&theme=github_dark&show_icons=true&count_private=true" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuspcs&theme=dark" /> </p>
 
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=nexuspcs&theme=github" /> </p>
-
-
 
 
 
