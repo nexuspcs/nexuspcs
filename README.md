@@ -17,16 +17,6 @@
 <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexuspcs&show_icons=true&locale=en&theme=github_dark&show_icons=true&count_private=true" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuspcs&theme=dark" /> </p>
 
-<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=nexuspcs&theme=github" /> </p>
-
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nexuspcs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nexuspcs" /></a></p><br><br>
-<br>
-
 
 
 
