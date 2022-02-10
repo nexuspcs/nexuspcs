@@ -2,7 +2,7 @@
 <h1 align="center">Nexus PCs</h1>
 
 
-## GitHub Stats
+## GitHub Stats 🛠
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nexuspcs&label=Profile%20views&color=0e75b6&style=flat)
 
