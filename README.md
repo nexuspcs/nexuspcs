@@ -17,11 +17,15 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 </a>
 
 ## Laptop Specfications 💻
-
-<img align="center" alt=applesilicon src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
-<img align="center" alt=applesilicon src="https://img.shields.io/badge/1Tb%20Internal%20SSD-333333?style=for-the-badge&logo=ssd&logoColor=white" />
-<img align="center" alt=applesilicon src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
-
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/1Tb%20Internal%20SSD-333333?style=for-the-badge&logo=ssd&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
+</a>
 ## Must-have's❗️
 
 <img alt=chromedev src="https://img.shields.io/badge/Google_chrome_DEV-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
