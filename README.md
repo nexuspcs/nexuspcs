@@ -42,25 +42,17 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 <a href="">
   <img align="center" src="https://camo.githubusercontent.com/5de160cf7de98a41b9150881e6a4a93ac1cd79e387082205886dd01d8acec10a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361666172692d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736166617269266c6f676f436f6c6f723d7768697465" />
 </a>
-
-
-
-
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />
+</a>
 <br>
-<br>
 
-
-
-
-
-<img alt=chromedev src="https://img.shields.io/badge/Google_chrome_DEV-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-<img alt=safari src="https://camo.githubusercontent.com/5de160cf7de98a41b9150881e6a4a93ac1cd79e387082205886dd01d8acec10a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361666172692d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736166617269266c6f676f436f6c6f723d7768697465" />
-
-<img alt=hyper src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />
-
-<img alt=xcode src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-
-
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Google_chrome_DEV-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+</a>
 ## GitHub Stats 🛠
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nexuspcs&label=Profile%20&style=square&views&color=0e75b6&style=flat)
