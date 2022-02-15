@@ -27,7 +27,7 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
   <img align="center" src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
 </a>
 
-## Must-have's❗️❗️
+## Must-have's❗️
 
 
 <a href="">
