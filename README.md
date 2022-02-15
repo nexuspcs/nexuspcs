@@ -53,6 +53,7 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 <a href="">
   <img align="center" src="https://img.shields.io/badge/Google_chrome_DEV-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
+
 ## GitHub Stats 🛠
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nexuspcs&label=Profile%20&style=square&views&color=0e75b6&style=flat)
