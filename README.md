@@ -26,13 +26,38 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 <a href="">
   <img align="center" src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
 </a>
+
 ## Must-have's❗️
+
+
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://camo.githubusercontent.com/5de160cf7de98a41b9150881e6a4a93ac1cd79e387082205886dd01d8acec10a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361666172692d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736166617269266c6f676f436f6c6f723d7768697465" />
+</a>
+
+
+
+
+<br>
+<br>
+
+
+
+
 
 <img alt=chromedev src="https://img.shields.io/badge/Google_chrome_DEV-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 <img alt=safari src="https://camo.githubusercontent.com/5de160cf7de98a41b9150881e6a4a93ac1cd79e387082205886dd01d8acec10a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5361666172692d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736166617269266c6f676f436f6c6f723d7768697465" />
-<img alt=git src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
 <img alt=hyper src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />
-<img alt=vscode src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 <img alt=xcode src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 
 
