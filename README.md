@@ -18,7 +18,7 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 
 ## Laptop Specfications 💻
 
-<img alt=applesilicon src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
+<img align="center" alt=applesilicon src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
 <img alt=applesilicon src="https://img.shields.io/badge/1Tb%20Internal%20SSD-333333?style=for-the-badge&logo=ssd&logoColor=white" />
 <img alt=applesilicon src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
 
