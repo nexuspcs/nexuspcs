@@ -6,7 +6,7 @@ I am a student, trying to learn to become fluent in the languages of CSS, HTML, 
 I also fork a few repositories that I am interested in, and sometimes make pull requests. Have a look [here](https://github.com/nexuspcs?tab=repositories&q=&type=fork&language=&sort=)!
 
 ## Social Media 
-<a href="www.linkedin.com/in/jamescoatesaus">
+<a href="https://www.linkedin.com/in/jamescoatesaus">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/nexuspcs">
