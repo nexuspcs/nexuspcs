@@ -73,4 +73,5 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 
 
 
->📫 **nexus.custom.pcs.aus@gmail.com**
+>📫 **jamescoates06@gmail.com**
+>📫 **james@windcloud.com.au**
