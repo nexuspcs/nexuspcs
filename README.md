@@ -5,6 +5,17 @@
 I am a student, trying to learn to become fluent in the languages of CSS, HTML, PHP, etc. I mainly use GitHub to host my projects. A lot of my main projects are private, but I sometimes make them public. Have a look at my [repositories](https://github.com/nexuspcs?tab=repositories)!
 I also fork a few repositories that I am interested in, and sometimes make pull requests. Have a look [here](https://github.com/nexuspcs?tab=repositories&q=&type=fork&language=&sort=)!
 
+## Laptop Specfications 💻
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/apple%20silicon%20m1pro-333333?style=for-the-badge&logo=apple&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/1Tb%20Internal%20SSD-333333?style=for-the-badge&logo=ssd&logoColor=white" />
+</a>
+<a href="">
+  <img align="center" src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
+</a>
+
 ## Social Media 
 <a href="https://www.linkedin.com/in/jamescoatesaus">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,16 +27,7 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-## Laptop Specfications 💻
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/apple%20silicon%20m1pro-333333?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/1Tb%20Internal%20SSD-333333?style=for-the-badge&logo=ssd&logoColor=white" />
-</a>
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
-</a>
+
 
 ## Must-have's❗️
 
