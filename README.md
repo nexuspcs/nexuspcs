@@ -4,6 +4,16 @@
 ## About me
 I am a student, trying to learn to become fluent in the languages of CSS, HTML, PHP, etc. I mainly use GitHub to host my projects. A lot of my main projects are private, but I sometimes make them public. Have a look at my [repositories](https://github.com/nexuspcs?tab=repositories)!
 I also fork a few repositories that I am interested in, and sometimes make pull requests. Have a look [here](https://github.com/nexuspcs?tab=repositories&q=&type=fork&language=&sort=)!
+*** 
+I am working on a hyper-local weather service, take a look at the [GitHub page](https://www.github.com/windcloudaustralia/windcloud)
+<br>
+Take a look at the GitHub [orginisation page](https://github.com/windcloudaustralia)
+<br>
+<br>
+**Special apps in development**: 
+- [x] Take a look at our app's GitHub repository (for our main app) [here](https://github.com/windcloudaustralia/windcloud-MainApp). <br>
+- [x] Or take a look at Wind Cloud Places [here](https://github.com/windcloudaustralia/windcloud-Places). <br>
+- [ ] You can be one of the first to join our TestFlight team. If that sounds interesting, email me at [james@windcloud.com.au](mailto:james@windcloud.com.au) 
 
 ## Laptop Specfications 💻
 <a href="">
