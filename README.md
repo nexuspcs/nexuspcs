@@ -82,7 +82,10 @@ Take a look at the GitHub [orginisation page](https://github.com/windcloudaustra
 <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexuspcs&show_icons=true&locale=en&theme=github_dark&show_icons=true&count_private=true" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuspcs&theme=dark" /> </p>
 
+<p align="center"> <a href="https://info.flagcounter.com/hFP3"><img src="https://s11.flagcounter.com/count2/hFP3/bg_171717/txt_FFFFFF/border_CCCCCC/columns_5/maxflags_100/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" align="center" border="0"></a> </p>
 
+<p align="center">
+<a href="https://info.flagcounter.com/Df9a"><img src="https://s11.flagcounter.com/map/Df9a/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> </p>
 
 
 >📫 **jamescoates06@gmail.com**<br>
