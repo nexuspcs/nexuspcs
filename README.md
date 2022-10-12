@@ -14,7 +14,7 @@ Take a look at the GitHub [orginisation page](https://github.com/windcloudaustra
 - [x] Take a look at our app's GitHub repository (for our main app) [here](https://github.com/windcloudaustralia/windcloud-MainApp). <br>
 - [x] Or take a look at Wind Cloud Places [here](https://github.com/windcloudaustralia/windcloud-Places). <br>
 - [ ] You can be one of the first to join our TestFlight team. If that sounds interesting, email me at [james@windcloud.com.au](mailto:james@windcloud.com.au) 
-
+<!---
 ## Laptop Specfications 💻
 <a href="">
   <img align="center" src="https://img.shields.io/badge/apple%20silicon%20m1pro-333333?style=for-the-badge&logo=apple&logoColor=white" />
@@ -81,7 +81,7 @@ Take a look at the GitHub [orginisation page](https://github.com/windcloudaustra
 
 <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexuspcs&show_icons=true&locale=en&theme=github_dark&show_icons=true&count_private=true" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuspcs&theme=dark" /> </p>
-
+-->
 >📫 **jamescoates06@gmail.com**<br>
 *or*
 ><br>📫 **james@windcloud.com.au**
