@@ -1,19 +1,16 @@
 
-<h1 align="center">Nexus PCs</h1>
+<h1 align="center">James Coates</h1>
 
 ## About me
-I am a student, trying to learn to become fluent in the languages of CSS, HTML, PHP, etc. I mainly use GitHub to host my projects. A lot of my main projects are private, but I sometimes make them public. Have a look at my [repositories](https://github.com/nexuspcs?tab=repositories)!
-I also fork a few repositories that I am interested in, and sometimes make pull requests. Have a look [here](https://github.com/nexuspcs?tab=repositories&q=&type=fork&language=&sort=)!
+I am a student, attepming to learn the languages of CSS, HTML, PHP, etc. I mainly use GitHub to host my projects. The majority of my main projects are private, but occasionally I'll make them public. Have a look at my [repositories](https://github.com/nexuspcs?tab=repositories)
+I also fork a few repositories that I am interested in, and sometimes make pull requests. Have a look [here](https://github.com/nexuspcs?tab=repositories&q=&type=fork&language=&sort=)
 *** 
-I am working on a hyper-local weather service, take a look at the [GitHub page](https://www.github.com/windcloudaustralia/windcloud)
 <br>
-Take a look at the GitHub [orginisation page](https://github.com/windcloudaustralia)
-<br>
-<br>
-**Special apps in development**: 
+
+<!-- **Special apps in development**: 
 - [x] Take a look at our app's GitHub repository (for our main app) [here](https://github.com/windcloudaustralia/windcloud-MainApp). <br>
 - [x] Or take a look at Wind Cloud Places [here](https://github.com/windcloudaustralia/windcloud-Places). <br>
-- [ ] You can be one of the first to join our TestFlight team. If that sounds interesting, email me at [james@windcloud.com.au](mailto:james@windcloud.com.au) 
+- [ ] You can be one of the first to join our TestFlight team. If that sounds interesting, email me at [james@windcloud.com.au](mailto:james@windcloud.com.au)  -->
 <!---
 ## Laptop Specfications 💻
 <a href="">
@@ -26,22 +23,25 @@ Take a look at the GitHub [orginisation page](https://github.com/windcloudaustra
   <img align="center" src="https://img.shields.io/badge/16Gb_LDDR6_RAM-333333?style=for-the-badge&logo=s&logoColor=white" />
 </a>
 
-## Social Media 
+## Socials
 <a href="https://www.linkedin.com/in/jamescoatesaus">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/nexuspcs">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/jamescoates_19">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<!-- <a href="https://www.instagram.com/jamescoates_19">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
+<!-- </a> -->
+
+## Direct Contact
+>📫 **jamescoates06@gmail.com**<br>
 
 
-
+<!--
 ## Must-have's❗️
 
-
+<!--
 <a href="">
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </a>
@@ -82,6 +82,4 @@ Take a look at the GitHub [orginisation page](https://github.com/windcloudaustra
 <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nexuspcs&show_icons=true&locale=en&theme=github_dark&show_icons=true&count_private=true" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuspcs&theme=dark" /> </p>
 -->
->📫 **jamescoates06@gmail.com**<br>
-*or*
-><br>📫 **james@windcloud.com.au**
+
