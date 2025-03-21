@@ -1,11 +1,11 @@
-
+<!--
 <h1 align="center">James Coates</h1>
 
 ## About me
 I am a student, attepming to learn the languages of CSS, HTML, PHP, etc. I mainly use GitHub to host my projects. The majority of my main projects are private, but occasionally I'll make them public. Have a look at my [repositories](https://github.com/nexuspcs?tab=repositories)
 I also fork a few repositories that I am interested in, and sometimes make pull requests. Have a look [here](https://github.com/nexuspcs?tab=repositories&q=&type=fork&language=&sort=)
 *** 
-<br>
+<br>-->
 
 <!-- **Special apps in development**: 
 - [x] Take a look at our app's GitHub repository (for our main app) [here](https://github.com/windcloudaustralia/windcloud-MainApp). <br>
@@ -35,7 +35,7 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 <!-- </a> -->
 
 ## Direct Contact
->📫 **jamescoates06@gmail.com**<br>
+**jamescoates06@gmail.com**<br>
 
 
 <!--
