@@ -35,9 +35,12 @@ I also fork a few repositories that I am interested in, and sometimes make pull 
 <!-- </a> -->
 
 ## Direct Contact
+**james@coatesy.au**
+<br>
 **jamescoates06@gmail.com**<br>
 
-
+## Web
+<a href="https://coatesy.au"> https://coatesy.au </a>
 <!--
 ## Must-have's❗️
 
